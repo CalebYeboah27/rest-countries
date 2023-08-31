@@ -17,7 +17,7 @@ To run the script successfully, you'll need to have the following:
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/api-data-to-excel.git
+   git clone https://github.com/CalebYeboah27/rest-countries.git
    ```
 
 2. Navigate to the project directory:
@@ -55,9 +55,6 @@ To run the script successfully, you'll need to have the following:
 ## Customization
 
 You can customize the script further based on your needs:
-
-- Modify the data parsing logic in the `fetch_and_store_data()` function to extract relevant information from the API response.
-- Adjust the Excel file format or data storage method by modifying the `store_to_excel()` function.
 - Implement error handling and logging mechanisms for better reliability.
 
 ## Contributing
